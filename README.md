@@ -14,5 +14,5 @@
    <a href="https://discord.gg/391311138995961866" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  </div>
 
- ![Snake animation](https://github.com/orttgg/orttgg/blob/output/github-contribution-grid-snake.svg)
+ 
  
