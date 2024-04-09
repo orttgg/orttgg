@@ -6,7 +6,7 @@
 
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orttgg&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orttgg&show_icons=false&theme=dark)
  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orttgg&layout=compact&langs_count=7&theme=dark"/>
 
  </div>
