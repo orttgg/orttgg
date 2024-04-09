@@ -1,5 +1,10 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dark+Code&weight=600&size=25&pause=1000&color=191970&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Ortega!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 <div>
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dark+Code&weight=600&size=25&pause=1000&color=DC143C&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Ortega!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+
+
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orttgg&show_icons=true&theme=dark)
  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orttgg&layout=compact&langs_count=7&theme=dark"/>
