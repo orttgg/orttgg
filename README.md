@@ -1,4 +1,4 @@
-## Olá, Eu sou Marcos Ortega
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Ortega!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orttgg&show_icons=true&theme=dark)
  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orttgg&layout=compact&langs_count=7&theme=dark"/>
  <img align="center" alt="ortega-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
