@@ -2,7 +2,7 @@
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dark+Code&weight=600&size=25&pause=1000&color=4B0082&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Ortega!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dark+Code&weight=600&size=25&pause=1000&color=4B0082&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Ortega!;+Bem+vindo+ao+meu+perfil!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 
  
